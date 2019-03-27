@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71792d73-ba6f-4d3e-904b-8cab334995fa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/Start.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tweedekamer final/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tweedekamer final/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tweedekamer final/META-INF/tweedekamer final.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tweedekamer final/README.TXT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tweedekamer final/audio/Teksten/Opname01.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tweedekamer final/audio/Teksten/Opname01.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tweedekamer final/audio/Teksten/Opname03.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tweedekamer final/audio/Teksten/Opname03.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tweedekamer final/audio/Teksten/Opname04.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tweedekamer final/audio/Teksten/Opname04.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tweedekamer final/package.bluej" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,12 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Start.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-              <folding>
-                <element signature="e#146#147#0" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -40,7 +28,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/runner/TweedeKamer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
+            <state relative-caret-position="391">
               <caret line="36" column="56" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="67" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -97,11 +85,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1615" />
-    <option name="height" value="880" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="657" />
+    <option name="y" value="42" />
+    <option name="width" value="1440" />
+    <option name="height" value="827" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -224,10 +212,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="827" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.1484375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.14791666" />
       <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.2671141" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -343,13 +331,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.bluej" />
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="983">
-          <caret line="309" column="19" selection-start-line="309" selection-start-column="19" selection-end-line="309" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Scanner.java" />
     <entry file="file://$PROJECT_DIR$/data/Data.ctxt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
@@ -480,16 +462,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/runner/TweedeKamer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="36" column="56" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="67" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/audio/MusicPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="471">
@@ -502,11 +474,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Start.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        <state relative-caret-position="68">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner/TweedeKamer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="36" column="56" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="67" />
           <folding>
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>

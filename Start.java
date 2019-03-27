@@ -2,6 +2,7 @@
  * @author Paul Tonk
  * @version 1.0 mrt 2019
  * Aanpassing tekstregel tbv Git
+ * Aanpassing tekstregel tbv Git van Gio
  */
 import runner.TweedeKamer;
 
